@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! 👋🎾🌈✨
 ![](https://komarev.com/ghpvc/?username=orangeorangehuang&color=orange)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/438702959962882059?simple=true)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/438702959962882059)
@@ -6,8 +6,12 @@
 
 **I'm Chia-Hung Huang.** I'm in my first year of graduate school in NTU, majoring Computer Science 💻 .
 - 🔭 I currently join in the [Digital Archives and Automated Reasoning Lab](http://archimedes.csie.ntu.edu.tw/), advised by Prof. Jieh Hsiang.
-- 📫 Find me around the internet:   
-  - [orange1052110128@gmail.com](mailto:orange1052110128@gmail.com)
+- 🎓 Education
+  - Bachelor of Computer Science: National Taiwan University (Sep 2018 - Jul 2022)
+  - Master of Computer Science: National Taiwan University (Sep 2022 - Now)
+- 
+- 🌎 Find me around the internet:   
+  - 📫 [orange1052110128@gmail.com](mailto:orange1052110128@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/chia-hung-huang-a6199423b/)
 
 ![Metrics](/github-metrics.svg)
