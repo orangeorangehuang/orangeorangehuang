@@ -6,6 +6,9 @@
   - Email: [orange1052110128@gmail.com](mailto:orange1052110128@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/chia-hung-huang-a6199423b/)
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/438702959962882059?simple=true)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/438702959962882059)
+
 ![Metrics](/github-metrics.svg)
 
 <!--
