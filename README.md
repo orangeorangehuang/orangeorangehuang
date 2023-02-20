@@ -2,8 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=orangeorangehuang&color=orange)
 
 **I'm Chia-Hung Huang** (he/they). I'm in my first year of graduate school in NTU, majoring Computer Science 💻 .
-- 📫 Find me around the internet: 
+- 📫 Find me around the internet:   
+  - Email: [orange1052110128@gmail.com](mailto:orange1052110128@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/chia-hung-huang-a6199423b/)
 
+![Metrics](/github-metrics.svg)
 
 <!--
 **orangeorangehuang/orangeorangehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
