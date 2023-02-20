@@ -1,4 +1,9 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=orangeorangehuang&color=orange)
+
+**I'm Chia-Hung Huang** (he/they). I'm in my first year of graduate school in NTU, majoring Computer Science 💻 .
+- 📫 Find me around the internet: 
+
 
 <!--
 **orangeorangehuang/orangeorangehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
