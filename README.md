@@ -10,7 +10,7 @@ I'm **Chia-Hung Huang** from Chiayi, Taiwan 🇹🇼. I'm in my first year of gr
   - Bachelor of Computer Science: National Taiwan University (Sep 2018 - Jul 2022)
   - Master of Computer Science: National Taiwan University (Sep 2022 - Now)
 - 📫 Find me around the internet:   
-  - ✉️ [orange1052110128@gmail.com](mailto:orange@csie.org)
+  - ✉️ [orange@csie.org](mailto:orange@csie.org)
   - ➡️ [LinkedIn](https://www.linkedin.com/in/chia-hung-huang-a6199423b/)
 
 ![Metrics](/github-metrics.svg)
