@@ -4,7 +4,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/438702959962882059)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/438702959962882059)
 
-I'm **Chia-Hung Huang** from Chiayi, Taiwan 🇹🇼. I'm in my second year of graduate school in NTU, majoring in Computer Science 💻 .
+I'm **Chia-Hung Huang** from Taiwan 🇹🇼. I'm in my second year of graduate school in NTU, majoring in Computer Science 💻 .
 - 🔭 I currently join in the Digital Archives and Automated Reasoning Lab, advised by Prof. Jieh Hsiang.
 - 🎓 My Education Background:
   - Bachelor of Computer Science: National Taiwan University (Sep 2018 - Jul 2022)
